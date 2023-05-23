@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Meu+nome+é+Jhonatan+Teixeira;Eu+tenho+23+anos;Moro+no+Brasil;Atualmente+curso+sistemas+de+informação;Seja+muito+Bem+vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JhonyTeixeira&bg_color=2d333b&color=527c9d&line=527c9d&point=4798ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JhonyTeixeira&bg_color=2d333b&color=527c9d&line=527c9d&point=4798ff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  ### Estudando:         
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
